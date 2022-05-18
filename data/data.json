@@ -1,0 +1,72 @@
+{
+    "Marco Verratti": {
+        "Tecnica": 340,
+        "Potenza": 200,
+        "Movimento": 300,
+        "Precisione": 490,
+        "Stile offensivo": 300
+    },
+    "Ciro Immobile": {
+        "Tecnica": 500,
+        "Potenza": 450,
+        "Movimento": 500,
+        "Precisione": 354,
+        "Stile offensivo": 500 
+    },
+	"Lorenzo Insigne": {
+        "Tecnica": 380,
+        "Potenza": 319,
+        "Movimento": 400,
+        "Precisione": 313,
+        "Stile offensivo": 330
+    },
+	"Jorginho": {
+        "Tecnica": 100,
+        "Potenza": 300,
+        "Movimento": 100,
+        "Precisione": 206,
+        "Stile offensivo": 470
+    },
+	"Nicolò Barella": {
+        "Tecnica": 270,
+        "Potenza": 411,
+        "Movimento": 200,
+        "Precisione": 427,
+        "Stile offensivo": 360
+    },
+	"Federico Chiesa": {
+        "Tecnica": 470,
+        "Potenza": 480,
+        "Movimento": 437,
+        "Precisione": 453,
+        "Stile offensivo": 440 
+    },
+	"Leonardo Spinazzola": {
+        "Tecnica": 366,
+        "Potenza": 200,
+        "Movimento": 350,
+        "Precisione": 334,
+        "Stile offensivo": 390
+    },
+	"Lorenzo Pellegrini": {
+        "Tecnica": 440,
+        "Potenza": 388,
+        "Movimento": 450,
+        "Precisione": 405,
+        "Stile offensivo": 410
+    },
+	"Domenico Berardi": {
+        "Tecnica": 210,
+        "Potenza": 366,
+        "Movimento": 270,
+        "Precisione": 390,
+        "Stile offensivo": 250
+    },
+	"Manuel Locatelli": {
+        "Tecnica": 396,
+        "Potenza": 389,
+        "Movimento": 337,
+        "Precisione": 240,
+        "Stile offensivo": 210
+    }
+}
