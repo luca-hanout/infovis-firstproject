@@ -79,7 +79,7 @@ function onClickEvent(d, i) {
 	//seleziono il path e gestisco la transition colorando il poligono per qualche secondo
 	d3.select(idPath)
 		.transition()
-		.duration(1500)
+		.duration(1000)
 		.style("fill", tempPathColor)
 		.style('stroke-opacity', 0.8)
 		.transition()
